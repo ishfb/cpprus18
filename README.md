@@ -10,6 +10,14 @@
 * что мы узнали нового, работая над курсами и общаясь со слушателями
 * байки, курьёзы и интересные факты
 
+## Мотивирующие мысли
+
+* Stroustrup: "Teaching is relatively easy. Getting people to learn is hard"
+* Stroustrup: "Don't teach features. The standard says what's valid, not what's useful"
+* Stroustrup: "The purpose of good teaching is getting ideas into people's heads"
+* ODR не работает при объяснении
+* Kate Gregory: "C++ is not only for smart people"
+
 ## Цель
 
 * дать практические советы по обучению и донесению информации до коллег
