@@ -12,7 +12,7 @@
 
 ## Мотивирующие мысли
 
-* Stroustrup: "Teaching is relatively easy. Getting people to learn is hard"
+* (+) Stroustrup: "Teaching is relatively easy. Getting people to learn is hard"
 * (+) Stroustrup: "Don't teach features. The standard says what's valid, not what's useful"
 * (+) Stroustrup: "The purpose of good teaching is getting ideas into people's heads"
 * ODR не работает при объяснении
